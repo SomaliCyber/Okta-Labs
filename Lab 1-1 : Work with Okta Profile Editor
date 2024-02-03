@@ -3,7 +3,7 @@ Pre Requisites: Access to an Okta Org as an admin/developer.
 
 Steps to complete:
 Modify the User Profile Schema to add a Custom Attribute 
-1. Access your Okta org as oktatraining. 
+1. Access your Okta org as your admin/developer account. 
 2. Click Directory – Profile Editor. 
 3. From the FILTERS list, select Okta. 
 4. Click the Profile button and click Add Attribute. 
