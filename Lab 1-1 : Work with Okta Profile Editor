@@ -1,0 +1,23 @@
+Objective: Access your Okta organization and extend the user schema with new attributes.
+Pre Requisites: Access to an Okta Org as an admin/developer.
+
+Steps to complete:
+Modify the User Profile Schema to add a Custom Attribute 
+1. Access your Okta org as oktatraining. 
+2. Click Directory – Profile Editor. 
+3. From the FILTERS list, select Okta. 
+4. Click the Profile button and click Add Attribute. 
+5. Complete the fields as follows: 
+Field & Value 
+Display name Favorite Ice Cream Flavor 
+Variable name favIceCreamFlavor 
+Description User's favorite ice-cream flavor 
+Attribute Length Between 1 and 50 
+Attribute required DO NOT check
+6. Click Save. 
+7. Select Custom from the FILTERS list. 
+8. Verify the custom attribute you just created is listed. 
+Checkpoint 
+At this point, you successfully extended the user schema with new attributes! In the next 
+lab, you will start to create and activate users. 
+
